@@ -8,3 +8,5 @@
 * How to write ES6 promises
 
 [Click here to see the app](https://cyber-borries.github.io/Chuck-Norris-Joke-API/)
+
+Thank you for viewing my github repository, if you have any comments please feel free to contact me at adriaan.bornman1@gmail.com
